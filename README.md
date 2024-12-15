@@ -1,12 +1,15 @@
 # Getting Started with Create React App
-
+Name : Tejas Salunke
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+Step 1 : If you dont have node module install First 'npm install'
+
+Step 2 : To Run App `npm start` (run in localhost:3000);
 
 In the project directory, you can run:
 
-### `npm start`
+### To Run App `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
