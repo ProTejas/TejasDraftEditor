@@ -152,7 +152,7 @@ const DraftEditor = () => {
                         RED: { color: "red" },
                         UNDERLINE: { textDecoration: "underline" }
                     }}
-                     plceholder='sbhskjvbdsv'
+                    placeholder="Press # , * , ** or *** and Space"
                 />
             </div>
         </>
